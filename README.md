@@ -24,6 +24,6 @@
 <br/>
 
 ### My Github Stats
-<img align="center" style="display: block; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=can33&layout=highcontrast]">
+<img align="center" style="display: block; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=can33&theme=highcontrast]">
 
 [linkedin]: https://www.linkedin.com/in/musa-can-kecef/
